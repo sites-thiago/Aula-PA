@@ -1,5 +1,7 @@
 algoritmo "Calculadora_de_areas"
-// calcular area do triangulo
+// Função : Calculadora de áreas;
+// Autor : Thiagop de Oliveira Freitas
+// Data : 01/03/2021
 var
 
 bmaior, bmenor, base, altura, raio, area, a, b  : real
@@ -89,7 +91,7 @@ leia (opcao)
               
          outrocaso
                   escreval ("Operação Inválida")
-                  escreva ("obs: coloque apenas o valor das opções, exemplo (a, b)")
+                  escreval ("Obs: coloque apenas as letras das opções, exemplo: a")
               
      fimescolha
 
