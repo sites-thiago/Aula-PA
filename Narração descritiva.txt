@@ -1,0 +1,285 @@
+Sequência lógica de ir tomar banho 
+
+Algoritmo tomarbanho 
+
+ 
+
+Início  
+
+Ir ao quarto 
+
+Abrir guarda roupa  
+
+Pegar – Toalha e roupa limpa 
+
+Fechar guarda roupa  
+
+Ir até o banheiro 
+
+Abrir porta do banheiro 
+
+Entrar no banheiro 
+
+Fechar porta do banheiro 
+
+Separar o sabonete e shampoo 
+
+Tirar roupa 
+
+Colocar roupa suja para lavar 
+
+Abrir box do chuveiro  
+
+Entrar no box do chuveiro 
+
+ 
+
+Se tempo estiver calor  
+
+Ligar chuveiro na temperatura morna 
+
+ 
+
+Senão 
+
+Ligar na temperatura quente 
+
+ 
+
+Fechar box do chuveiro 
+
+Passar o sabonete em todo corpo 
+
+Lavar o cabelo com shampoo 
+
+Enxaguar-se 
+
+Fechar chuveiro  
+
+Pegar toalha e secar seu corpo 
+
+Abrir box do chuveiro 
+
+Sair do box 
+
+Fechar o box 
+
+Pegar roupa limpa 
+
+Vestir roupa limpa 
+
+Ir até o espelho 
+
+Pegar pente  
+
+Pentear o cabelo  
+
+Abrir porta 
+
+Sair do banheiro 
+
+Estender toalha 
+
+ 
+
+Fimalgoritmo  
+
+ 
+
+ 
+
+ 
+
+Algoritmo SomarNumeros 
+
+ 
+
+Início 
+
+Resultadosoma= numero1 + numero2 
+
+Resultadosoma * numero1 = resultadomultiplicação 
+
+ 
+
+Fimalgoritmo 
+
+ 
+
+ 
+
+Algoritmo Trocarpneu 
+
+ 
+
+Inicio  
+
+ 
+
+Parar carro 
+
+Ligar Pisca alerta 
+
+Puxar feio de mão 
+
+Sair do carro 
+
+Ir até porta malas 
+
+Abrir porta malas  
+
+Pegar pneu estepe 
+
+Pegar macaco 
+
+Pegar chave de roda 
+
+Fechar porta malas 
+
+Ir até pneu que precisa ser trocado 
+
+Posicione macaco sob lataria do carro 
+
+Apoie o carro com o macaco 
+
+Levante o carro com o macaco 
+
+Pegar chave de roda 
+
+Retire a calota 
+
+Posicionar a chave de roda no parafuso 
+
+Girar chave de roda em sentido anti-horário 
+
+Tirar chave de roda 
+
+Soltar chave de roda 
+
+Pegar macaco 
+
+Levantar mais o carro com macaco 
+
+Soltar macaco 
+
+Pegar chave de roda 
+
+Encaixar no parafuso 
+
+Remover parafusos  
+
+Soltar chave de roda 
+
+Pegar pneu quebrado 
+
+Soltar pneu quebrado  
+
+Colocar pneu sob o chão 
+
+Pegar pneu estepe  
+
+Posicionar pneu estepe no eixo 
+
+Pegar parafusos 
+
+Colocar parafusos 
+
+Pegar chave de roda  
+
+Posicionar chave de roda nos parafusos 
+
+Girar chave de roda sentido horário 
+
+Soltar chave 
+
+Abaixar macaco 
+
+Pegar tudo 
+
+Ir até porta mala 
+
+Abrir porta mala 
+
+Colocar estepe 
+
+Colocar chave de roda 
+
+Colocar macaco 
+
+Fechar porta mala 
+
+Fimalgoritmo 
+
+ 
+
+ 
+
+Algoritmo trocarlampada 
+
+ 
+
+Inicio 
+
+Ir até caixa de força 
+
+Abrir caixa de força  
+
+Desligar disjuntor 
+
+Fechar caixa de força  
+
+Pegar escada 
+
+Pegar caixa da lâmpada nova 
+
+Ir até cômodo da lâmpada 
+
+Abrir escada 
+
+Posicionar escada 
+
+Subir na escada 
+
+Tirar lustre 
+
+Segurar lâmpada queimada 
+
+Girar lâmpada queimada sentido anti-horário  
+
+Tirar lâmpada queimada 
+
+Abrir caixa da lâmpada nova  
+
+Pegar lâmpada nova  
+
+Encaixar lâmpada nova  
+
+Rosquear lâmpada sentido horário 
+
+Pegar lustre 
+
+Colocar lustre 
+
+Descer escada 
+
+Pegar escada  
+
+Fechar escada 
+
+Guardar escada 
+
+Ir até caixa de força 
+
+Abrir caixa de força 
+
+Ligar disjuntor 
+
+Fechar caixa de força 
+
+Sair de casa 
+
+Ir até lugar apropriado 
+
+Jogar lâmpada no lugar apropriado  
+
+Fimalgoritmo 
