@@ -35,8 +35,9 @@ Programa não para de ser executado enquanto o usuário não pedir.
 8. Escreva um algoritmo que calcule a média dos números digitados pelo usuário, se eles forem pares. Termine a leitura se o usuário digitar zero (0);
 9. Escreva um algoritmo que leia valores inteiros e encontre o maior e o menor deles. Termine a leitura se o usuário digitar zero (0);
 10. Escreva um programa que lido um número, calcule e informe o seu fatorial. Ex.: 5!= 5 * 4 * 3 * 2 * 1 = 120.
-11.Escreva um programa que leia um valor correspondente ao número de jogadores de um time de vôlei. O programa deverá ler uma altura para cada um dos jogadores e, ao final, informar a altura m[edia do time.
+11.Escreva um programa que leia um valor correspondente ao número de jogadores de um time de vôlei. O programa deverá ler uma altura para cada um dos jogadores e, ao final, informar a altura media do time.
 12. Informe se um número digitado é primo. Caso não for, informe por quais números ele é divisível;
 13. Calcule a soma de todos os números primos existentes entre 1 e 100;
 14. Digitados dois números (base e expoente), calcule o resultado utilizando apenas multiplicações;
 15. Faça um programa que peça ao usuário para digitar a melhor escola de Ribeirão Pires. O programa só termina se ele digitar ETEC MCM.
+
